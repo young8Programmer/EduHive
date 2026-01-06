@@ -207,3 +207,5 @@ Agar savollaringiz bo'lsa, issue oching yoki email yuboring.
 Bu loyiha shaxsiy loyiha sifatida yaratilgan.
 
 <!-- Update 1 -->
+
+<!-- Update 2 -->
