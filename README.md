@@ -295,3 +295,5 @@ Bu loyiha shaxsiy loyiha sifatida yaratilgan.
 <!-- Update 44 -->
 
 <!-- Update 45 -->
+
+<!-- Update 46 -->
