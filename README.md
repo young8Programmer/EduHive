@@ -283,3 +283,5 @@ Bu loyiha shaxsiy loyiha sifatida yaratilgan.
 <!-- Update 38 -->
 
 <!-- Update 39 -->
+
+<!-- Update 40 -->
