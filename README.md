@@ -233,3 +233,5 @@ Bu loyiha shaxsiy loyiha sifatida yaratilgan.
 <!-- Update 13 -->
 
 <!-- Update 14 -->
+
+<!-- Update 15 -->
